@@ -12,4 +12,5 @@ export 'src/windows/windows1251.dart';
 export 'src/windows/windows1252.dart';
 export 'src/windows/windows1253.dart';
 export 'src/windows/windows1254.dart';
+export 'src/windows/windows1255.dart';
 export 'src/windows/windows1256.dart';
