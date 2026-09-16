@@ -23,6 +23,7 @@ Supports the following encodings:
   * Windows-1252 / cp-1252
   * Windows-1253 / cp-1253
   * Windows-1254 / cp-1254
+  * Windows-1255 / cp-1255
   * Windows-1256 / cp-1256
 * DOS Codepage Encodings:
   * cp-850
